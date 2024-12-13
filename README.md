@@ -15,10 +15,8 @@ This portfolio website is built to display my expertise in full-stack developmen
 
 ## 🛠️ Technologies Used
 This project is built with:
-- **Frontend:** HTML, CSS, JavaScript, ReactJS
-- **Backend:** Java, Spring Boot, Microservices
-- **Database:** MySQL
-
+- **Frontend:** HTML,TailwindCSS
+  
 ## 📂 Project Structure
 - `/frontend`: Contains all the frontend code for the project.
 - `/backend`: Contains all the backend code for the project.
